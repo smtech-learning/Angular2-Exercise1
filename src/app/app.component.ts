@@ -18,5 +18,5 @@ export class AppComponent {
   logthis(event){
     console.log(event.target.value);
     
-  }
+  } 
 }
